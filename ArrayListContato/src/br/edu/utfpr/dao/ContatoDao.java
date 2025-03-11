@@ -5,7 +5,6 @@ import br.edu.utfpr.contato.Contato;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.concurrent.atomic.AtomicBoolean;
 
 public class ContatoDao {
     public List<Contato> contatos = new ArrayList();
